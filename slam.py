@@ -2,8 +2,7 @@
 import os
 import sys
 
-sys.path.append("lib/macosx")
-sys.path.append("lib/linux")
+sys.path.append("lib")
 
 import time
 import cv2

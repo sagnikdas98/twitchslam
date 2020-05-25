@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import sys
 import time
-sys.path.append("lib/macosx")
-sys.path.append("lib/linux")
+
+sys.path.append("lib")
 
 from helpers import add_ones
 import numpy as np
